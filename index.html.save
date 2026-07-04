@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome to CI/CD Pipeline - version 2</h1>
+    <h1>Welcome to CI/CD Pipeline</h1>
     <p>Application deployed using GitHub Actions.</p>
 </body>
 </html>
